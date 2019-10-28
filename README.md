@@ -1,7 +1,7 @@
 # Open-Lab-03.07
 (12 XP) A function that checks if a cake can be divided fairly.
 
-1. Clone this repository to your GitHub account.
+1. Fork this repository to your GitHub account.
 2. Open solution file in Visual Studio.
 3. Open file `Divider.cs`.
 4. Implement the method `EqualSlices(int total, int people, int each)` that checks, if a cake can be divided fairly between people.
